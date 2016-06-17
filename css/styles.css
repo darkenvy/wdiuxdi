@@ -1,0 +1,52 @@
+.row {
+  margin-right: 0;
+  margin-left: 0; 
+}
+
+.row.carousel img {
+  overflow: hidden;
+  width: 100%;
+}
+
+.navbar-header, .navbar-toggle {
+  float: none;
+  margin-left: 20px;
+}
+
+.nav-name {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: darkgrey;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* ========  Buy Now =============  */
+
+.buynow div.row h3{
+  margin-top: 30px;
+  text-align: center;
+}
+
+/* temp img center */
+.buynow div.row {
+  text-align: center;
+}
+
+.buynow img {
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+}
+
+.buy-now-box {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* ========   =============  */
